@@ -1,0 +1,6 @@
+[submodule "uniswap-interface"]
+	path = uniswap-interface
+	url = https://github.com/mint-young/UniswapV2_Practice_01_Interface.git
+[submodule "uniswap-v2-sdk"]
+	path = uniswap-v2-sdk
+	url = https://github.com/mint-young/UniswapV2_Practice_01_sdk.git
