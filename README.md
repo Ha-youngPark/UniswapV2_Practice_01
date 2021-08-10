@@ -42,6 +42,10 @@ $ npm install -g typescript
 $ npm install -g yarn
 ```
 
+```bash
+$ yarn install
+```
+
 ### 3.Build and run the web application.
 
 ```bash
